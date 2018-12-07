@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 
 namespace ConsoleApp1
 {
@@ -8,6 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Assuming develop branch..");
+            Console.WriteLine("Made changes from Github site");
         }
     }
 }
