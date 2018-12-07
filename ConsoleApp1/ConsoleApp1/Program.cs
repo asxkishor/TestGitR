@@ -8,7 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Assuming develop branch..");
+            Console.WriteLine("Migrating to master branch..");
             Console.WriteLine("Made changes from Github site");
         }
     }
